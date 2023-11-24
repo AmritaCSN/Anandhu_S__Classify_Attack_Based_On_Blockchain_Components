@@ -104,11 +104,9 @@
  9.  Eclipse attack
  10.  Sybil attack
  11.  Time-jacking
- 12.  Eclipse attack
- 13.  Distributed denial of service (DDoS) attack
- 14.  Memory pool flooding attack
- 15.  Routing attack
- 16.  Bribery attack
+ 12.  Distributed denial of service (DDoS) attack
+ 13.  Routing attack
+ 14.  Bribery attack
 
 ###
 
