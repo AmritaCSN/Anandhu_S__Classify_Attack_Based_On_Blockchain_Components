@@ -94,48 +94,55 @@
 ###
 
  1.  Transaction malleability Attack
-     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604 )
-     * [paper 2](https://doi.org/10.1016/j.aej.2021.09.051 )
-     * [paper 3](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12017)
-     * [paper 4](https://www.researchgate.net/publication/352733786)
+     * [A Survey on Consensus Protocols and Attacks on Blockchain Technology](https://www.mdpi.com/2076-3417/13/4/2604 )
+     * [6G technology and taxonomy of attacks on blockchain technology](https://doi.org/10.1016/j.aej.2021.09.051 )
+     * [A survey of cyber attacks on blockchain based IoT systems for industry 4.0
+](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12017)
+     * [A Structured Overview of Attacks on Blockchain Systems
+](https://www.researchgate.net/publication/352733786)
  2.  Liveness Attack
-     * [paper 1](https://ieeexplore.ieee.org/abstract/document/9323061)
-     * [paper 2](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12017)
+     * [Blockchain Security Attacks, Challenges, and Solutions for the Future Distributed IoT Networkpaper 1](https://ieeexplore.ieee.org/abstract/document/9323061)
+     * [A survey of cyber attacks on blockchain based IoT systems for industry 4.0
+](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12017)
  3.  Spatial partitioning attack
-     * [paper 1](https://ieeexplore.ieee.org/document/8934243)
-     * [paper 2](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [Review of Blockchain Technology Vulnerabilities and Blockchain-System Attacks](https://ieeexplore.ieee.org/document/8934243)
+     * [A Survey on Consensus Protocols and Attacks on Blockchain Technology](https://www.mdpi.com/2076-3417/13/4/2604)
  4.  BGP hijacking attack
-     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
-     * [paper 2](https://www.researchgate.net/publication/352733786)
+     * [A Survey on Consensus Protocols and Attacks on Blockchain Technology](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [A Structured Overview of Attacks on Blockchain Systems
+](https://www.researchgate.net/publication/352733786)
  5.  Stress testing attack
-     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
-     * [paper 2](https://doi.org/10.1016/j.aej.2021.09.051)
+     * [A Survey on Consensus Protocols and Attacks on Blockchain Technology](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [6G technology and taxonomy of attacks on blockchain technology](https://doi.org/10.1016/j.aej.2021.09.051)
  6.  Memory pool flooding
-     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
-     * [paper 2](https://doi.org/10.1016/j.aej.2021.09.051)
+     * [A Survey on Consensus Protocols and Attacks on Blockchain Technology](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [6G technology and taxonomy of attacks on blockchain technology](https://doi.org/10.1016/j.aej.2021.09.051)
  7.  Block withholding attack
-     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
-     * [paper 2](https://doi.org/10.1016/j.aej.2021.09.051)
-     * [paper 3](https://www.researchgate.net/publication/352733786)
-     * [paper 4](https://ieeexplore.ieee.org/abstract/document/7728010)
-     * [paper 5](https://ieeexplore.ieee.org/document/8899433)
+     * [A Survey on Consensus Protocols and Attacks on Blockchain Technology](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [6G technology and taxonomy of attacks on blockchain technology](https://doi.org/10.1016/j.aej.2021.09.051)
+     * [A Structured Overview of Attacks on Blockchain Systems
+](https://www.researchgate.net/publication/352733786)
+     * [Bitcoin Block Withholding Attack: Analysis and Mitigation](https://ieeexplore.ieee.org/abstract/document/7728010)
+     * [Smart Irrigation System Using Machine Learning and IOT](https://ieeexplore.ieee.org/document/8899433)
  8.  DNS attack
-     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
-     * [paper 2](https://doi.org/10.1016/j.aej.2021.09.051)
+     * [A Survey on Consensus Protocols and Attacks on Blockchain Technology](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [6G technology and taxonomy of attacks on blockchain technology](https://doi.org/10.1016/j.aej.2021.09.051)
  9.  Eclipse attack
      * [paper 1](https://eprint.iacr.org/2018/236.pdf)
  10.  Sybil attack
       * [paper 1](https://doi.org/10.1016/j.jnca.2019.102481)
-      * [paper 2](https://www.researchgate.net/publication/352733786)
+      * [A Structured Overview of Attacks on Blockchain Systems
+](https://www.researchgate.net/publication/352733786)
  11.  Time-jacking
-      * [paper 1](https://doi.org/10.1016/j.aej.2021.09.051) 
+      * [6G technology and taxonomy of attacks on blockchain technology](https://doi.org/10.1016/j.aej.2021.09.051) 
  12.  Distributed denial of service (DDoS) attack
-      * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
-      * [paper 2](https://ieeexplore.ieee.org/document/8934243)
+      * [A Survey on Consensus Protocols and Attacks on Blockchain Technology](https://www.mdpi.com/2076-3417/13/4/2604)
+      * [Review of Blockchain Technology Vulnerabilities and Blockchain-System Attacks](https://ieeexplore.ieee.org/document/8934243)
  13.  Routing attack
       * [paper 1](https://doi.org/10.1016/j.jnca.2019.102481)
  14.  Bribery attack
-      * [paper 1](https://www.researchgate.net/publication/352733786)
+      * [A Structured Overview of Attacks on Blockchain Systems
+](https://www.researchgate.net/publication/352733786)
 
 ###
 
@@ -148,7 +155,7 @@
     * [paper 1](https://doi.org/10.1016/bs.adcom.2020.08.020)
     * [code](https://github.com/blockchainsllc/DAO.git)
  2. Race Attack 
-    * [paper 1](https://ieeexplore.ieee.org/document/8934243)
+    * [Review of Blockchain Technology Vulnerabilities and Blockchain-System Attacks](https://ieeexplore.ieee.org/document/8934243)
     * [paper 2](https://doi.org/10.1016/bs.adcom.2020.08.020)
     * [website](https://www.apriorit.com/dev-blog/578-blockchain-attack-vectors)
  3. Code Injection
@@ -163,13 +170,14 @@
  1.  Parity multi-sig wallet Attack 
      * [paper 1](https://doi.org/10.1016/bs.adcom.2020.08.020)
  2.  Wallet Thief Attack
-     * [paper 2](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [A Survey on Consensus Protocols and Attacks on Blockchain Technology](https://www.mdpi.com/2076-3417/13/4/2604)
  3.  Brute Force attack
-     * [paper 1](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12017)
+     * [A survey of cyber attacks on blockchain based IoT systems for industry 4.0
+](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12017)
  4.  Social Engineering Attack
-     * [paper 1](https://ieeexplore.ieee.org/document/8934243)
+     * [Review of Blockchain Technology Vulnerabilities and Blockchain-System Attacks](https://ieeexplore.ieee.org/document/8934243)
  5.  Phishing Attack
-     * [paper 1](https://ieeexplore.ieee.org/document/8934243)
+     * [Review of Blockchain Technology Vulnerabilities and Blockchain-System Attacks](https://ieeexplore.ieee.org/document/8934243)
  6.  XSS Attack
      * [paper 1](https://doi.org/10.1016/j.procs.2020.10.087) 
 
@@ -180,18 +188,21 @@
 ###
 
  1. Block Withholding Attack
-    * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
+    * [A Survey on Consensus Protocols and Attacks on Blockchain Technology](https://www.mdpi.com/2076-3417/13/4/2604)
     * [paper 2](https://doi.org/10.1016/j.aej.2021.09.051)
-    * [paper 3](https://www.researchgate.net/publication/352733786)
-    * [paper 4](https://ieeexplore.ieee.org/abstract/document/7728010)
-    * [paper 5](https://ieeexplore.ieee.org/document/8899433)
+    * [A Structured Overview of Attacks on Blockchain Systems
+](https://www.researchgate.net/publication/352733786)
+    * [Bitcoin Block Withholding Attack: Analysis and Mitigation](https://ieeexplore.ieee.org/abstract/document/7728010)
+    * [Smart Irrigation System Using Machine Learning and IOT](https://ieeexplore.ieee.org/document/8899433)
  2. Selfish Mining Attack
-    * [paper 1](https://www.researchgate.net/publication/352733786)
-    * [paper 2](https://ieeexplore.ieee.org/iel7/8893975/8899344/08899433.pdf)
+    * [A Structured Overview of Attacks on Blockchain Systems
+](https://www.researchgate.net/publication/352733786)
+    * [Smart Irrigation System Using Machine Learning and IOT](https://ieeexplore.ieee.org/iel7/8893975/8899344/08899433.pdf)
  3. Fork After Withholding Attack
-    * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
+    * [A Survey on Consensus Protocols and Attacks on Blockchain Technology](https://www.mdpi.com/2076-3417/13/4/2604)
  4. Bribery Attack
-    * [paper 1](https://www.researchgate.net/publication/352733786)
+    * [A Structured Overview of Attacks on Blockchain Systems
+](https://www.researchgate.net/publication/352733786)
 
 ###
 
@@ -200,32 +211,37 @@
 ###
 
  1.  Finney Attack
-     * [paper 1](https://www.researchgate.net/publication/352733786)
-     * [paper 2](https://ieeexplore.ieee.org/iel7/8893975/8899344/08899433.pdf)
-     * [paper 3](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [A Structured Overview of Attacks on Blockchain Systems
+](https://www.researchgate.net/publication/352733786)
+     * [Smart Irrigation System Using Machine Learning and IOT](https://ieeexplore.ieee.org/iel7/8893975/8899344/08899433.pdf)
+     * [A Survey on Consensus Protocols and Attacks on Blockchain Technology](https://www.mdpi.com/2076-3417/13/4/2604)
  2.  51% Attack
-     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [A Survey on Consensus Protocols and Attacks on Blockchain Technology](https://www.mdpi.com/2076-3417/13/4/2604)
      * [paper 2](https://doi.org/10.1007/978-981-16-6723-7)
  3.  Consensus delay Attack 
      * [paper 1](https://doi.org/10.1016/j.aej.2021.09.051)
  4.  Time-jacking Attack
-     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [A Survey on Consensus Protocols and Attacks on Blockchain Technology](https://www.mdpi.com/2076-3417/13/4/2604)
  5.  Selfish Mining Attack
-     * [paper 1](https://www.researchgate.net/publication/352733786)
-     * [paper 2](https://ieeexplore.ieee.org/iel7/8893975/8899344/08899433.pdf)
+     * [A Structured Overview of Attacks on Blockchain Systems
+](https://www.researchgate.net/publication/352733786)
+     * [Smart Irrigation System Using Machine Learning and IOT](https://ieeexplore.ieee.org/iel7/8893975/8899344/08899433.pdf)
  6.  Block Withholding Attack
-     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [A Survey on Consensus Protocols and Attacks on Blockchain Technology](https://www.mdpi.com/2076-3417/13/4/2604)
      * [paper 2](https://doi.org/10.1016/j.aej.2021.09.051)
-     * [paper 3](https://www.researchgate.net/publication/352733786)
-     * [paper 4](https://ieeexplore.ieee.org/abstract/document/7728010)
-     * [paper 5](https://ieeexplore.ieee.org/document/8899433)
+     * [A Structured Overview of Attacks on Blockchain Systems
+](https://www.researchgate.net/publication/352733786)
+     * [Bitcoin Block Withholding Attack: Analysis and Mitigation](https://ieeexplore.ieee.org/abstract/document/7728010)
+     * [Smart Irrigation System Using Machine Learning and IOT](https://ieeexplore.ieee.org/document/8899433)
  7.  Attack by accumulating the coin age
      * [paper 1](https://doi.org/10.1007/978-981-16-6723-7)
  8.  Race Attack
-     * [paper 1](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12017)
-     * [paper 2](https://ieeexplore.ieee.org/document/8934243)
+     * [A survey of cyber attacks on blockchain based IoT systems for industry 4.0
+](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12017)
+     * [Review of Blockchain Technology Vulnerabilities and Blockchain-System Attacks](https://ieeexplore.ieee.org/document/8934243)
  9.  Block Discarding Attack
-     * [paper 1](https://www.researchgate.net/publication/352733786)
+     * [A Structured Overview of Attacks on Blockchain Systems
+](https://www.researchgate.net/publication/352733786)
   
 
 ###
@@ -235,15 +251,16 @@
 ###
 
  1.  Double spending Attack
-     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [A Survey on Consensus Protocols and Attacks on Blockchain Technology](https://www.mdpi.com/2076-3417/13/4/2604)
      * [paper 2](https://doi.org/10.1007/978-981-16-6723-7)
  2.  Time delay Attack
-     * [paper 1](https://ieeexplore.ieee.org/document/8934243)
+     * [Review of Blockchain Technology Vulnerabilities and Blockchain-System Attacks](https://ieeexplore.ieee.org/document/8934243)
  3.  Dust Attack
-     * [paper 1](https://ieeexplore.ieee.org/document/8934243)
-     * [paper 2](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12017)
+     * [Review of Blockchain Technology Vulnerabilities and Blockchain-System Attacks](https://ieeexplore.ieee.org/document/8934243)
+     * [A survey of cyber attacks on blockchain based IoT systems for industry 4.0
+](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12017)
  4.  Hacking Hash Functions
-     * [paper 1](https://ieeexplore.ieee.org/document/8934243)
+     * [Review of Blockchain Technology Vulnerabilities and Blockchain-System Attacks](https://ieeexplore.ieee.org/document/8934243)
 
 ###
 <br>
