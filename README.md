@@ -188,7 +188,7 @@
 ###
 
 1.  Download and Install Multichain from https://www.multichain.com/download-community/
-2.  Create a new blockchain called <chain-name> based on MultiChain. 
+2.  Create a new blockchain called chain-name based on MultiChain. 
 <pre id="code-to-copy">$ multichain-util create [chain-name]</pre>
 3.  Start the blockchain.
 <pre id="code-to-copy">$ multichaind [chain-name] -daemon</pre>
