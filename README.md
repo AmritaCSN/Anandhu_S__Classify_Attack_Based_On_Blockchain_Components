@@ -94,19 +94,48 @@
 ###
 
  1.  Transaction malleability Attack
+     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604 )
+     * [paper 2](https://doi.org/10.1016/j.aej.2021.09.051 )
+     * [paper 3](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12017)
+     * [paper 4](https://www.researchgate.net/publication/352733786)
  2.  Liveness Attack
+     * [paper 1](https://ieeexplore.ieee.org/abstract/document/9323061)
+     * [paper 2](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12017)
  3.  Spatial partitioning attack
+     * [paper 1](https://ieeexplore.ieee.org/document/8934243)
+     * [paper 2](https://www.mdpi.com/2076-3417/13/4/2604)
  4.  BGP hijacking attack
+     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [paper 2](https://www.researchgate.net/publication/352733786)
  5.  Stress testing attack
+     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [paper 2](https://doi.org/10.1016/j.aej.2021.09.051)
  6.  Memory pool flooding
+     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [paper 2](https://doi.org/10.1016/j.aej.2021.09.051)
  7.  Block withholding attack
+     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [paper 2](https://doi.org/10.1016/j.aej.2021.09.051)
+     * [paper 3](https://www.researchgate.net/publication/352733786)
+     * [paper 4](https://ieeexplore.ieee.org/abstract/document/7728010)
+     * [paper 5](https://ieeexplore.ieee.org/document/8899433)
  8.  DNS attack
+     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [paper 2](https://doi.org/10.1016/j.aej.2021.09.051)
  9.  Eclipse attack
+     * [paper 1](https://eprint.iacr.org/2018/236.pdf)
  10.  Sybil attack
+      * [paper 1](https://doi.org/10.1016/j.jnca.2019.102481)
+      * [paper 2](https://www.researchgate.net/publication/352733786)
  11.  Time-jacking
+      * [paper 1](https://doi.org/10.1016/j.aej.2021.09.051) 
  12.  Distributed denial of service (DDoS) attack
+      * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
+      * [paper 2](https://ieeexplore.ieee.org/document/8934243)
  13.  Routing attack
+      * [paper 1](https://doi.org/10.1016/j.jnca.2019.102481)
  14.  Bribery attack
+      * [paper 1](https://www.researchgate.net/publication/352733786)
 
 ###
 
@@ -116,8 +145,14 @@
 
 
  1. DAO Attack - Decentralized Autonomous Organization Attack
- 2.  Race Attack
- 3.  Code Injection
+    * [paper 1](https://doi.org/10.1016/bs.adcom.2020.08.020)
+    * [code](https://github.com/blockchainsllc/DAO.git)
+ 2. Race Attack 
+    * [paper 1](https://ieeexplore.ieee.org/document/8934243)
+    * [paper 2](https://doi.org/10.1016/bs.adcom.2020.08.020)
+    * [website](https://www.apriorit.com/dev-blog/578-blockchain-attack-vectors)
+ 3. Code Injection
+    * [paper 1](https://eprint.iacr.org/2018/236.pdf)
 
 ###
 
