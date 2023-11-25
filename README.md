@@ -161,11 +161,17 @@
 ###
 
  1.  Parity multi-sig wallet Attack 
+     * [paper 1](https://doi.org/10.1016/bs.adcom.2020.08.020)
  2.  Wallet Thief Attack
+     * [paper 2](https://www.mdpi.com/2076-3417/13/4/2604)
  3.  Brute Force attack
+     * [paper 1](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12017)
  4.  Social Engineering Attack
+     * [paper 1](https://ieeexplore.ieee.org/document/8934243)
  5.  Phishing Attack
+     * [paper 1](https://ieeexplore.ieee.org/document/8934243)
  6.  XSS Attack
+     * [paper 1](https://doi.org/10.1016/j.procs.2020.10.087) 
 
 ###
 
@@ -173,10 +179,19 @@
 
 ###
 
- 1. Block WIthholding Attack
+ 1. Block Withholding Attack
+    * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
+    * [paper 2](https://doi.org/10.1016/j.aej.2021.09.051)
+    * [paper 3](https://www.researchgate.net/publication/352733786)
+    * [paper 4](https://ieeexplore.ieee.org/abstract/document/7728010)
+    * [paper 5](https://ieeexplore.ieee.org/document/8899433)
  2. Selfish Mining Attack
+    * [paper 1](https://www.researchgate.net/publication/352733786)
+    * [paper 2](https://ieeexplore.ieee.org/iel7/8893975/8899344/08899433.pdf)
  3. Fork After Withholding Attack
+    * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
  4. Bribery Attack
+    * [paper 1](https://www.researchgate.net/publication/352733786)
 
 ###
 
@@ -185,15 +200,33 @@
 ###
 
  1.  Finney Attack
+     * [paper 1](https://www.researchgate.net/publication/352733786)
+     * [paper 2](https://ieeexplore.ieee.org/iel7/8893975/8899344/08899433.pdf)
+     * [paper 3](https://www.mdpi.com/2076-3417/13/4/2604)
  2.  51% Attack
+     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [paper 2](https://doi.org/10.1007/978-981-16-6723-7)
  3.  Consensus delay Attack 
+     * [paper 1](https://doi.org/10.1016/j.aej.2021.09.051)
  4.  Time-jacking Attack
+     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
  5.  Selfish Mining Attack
+     * [paper 1](https://www.researchgate.net/publication/352733786)
+     * [paper 2](https://ieeexplore.ieee.org/iel7/8893975/8899344/08899433.pdf)
  6.  Block Withholding Attack
+     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [paper 2](https://doi.org/10.1016/j.aej.2021.09.051)
+     * [paper 3](https://www.researchgate.net/publication/352733786)
+     * [paper 4](https://ieeexplore.ieee.org/abstract/document/7728010)
+     * [paper 5](https://ieeexplore.ieee.org/document/8899433)
  7.  Attack by accumulating the coin age
+     * [paper 1](https://doi.org/10.1007/978-981-16-6723-7)
  8.  Race Attack
+     * [paper 1](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12017)
+     * [paper 2](https://ieeexplore.ieee.org/document/8934243)
  9.  Block Discarding Attack
- 10.  Ballot Stuffing Attack</p>
+     * [paper 1](https://www.researchgate.net/publication/352733786)
+  
 
 ###
 
@@ -202,10 +235,15 @@
 ###
 
  1.  Double spending Attack
+     * [paper 1](https://www.mdpi.com/2076-3417/13/4/2604)
+     * [paper 2](https://doi.org/10.1007/978-981-16-6723-7)
  2.  Time delay Attack
+     * [paper 1](https://ieeexplore.ieee.org/document/8934243)
  3.  Dust Attack
+     * [paper 1](https://ieeexplore.ieee.org/document/8934243)
+     * [paper 2](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12017)
  4.  Hacking Hash Functions
- 5.  Message Spoofing Attack
+     * [paper 1](https://ieeexplore.ieee.org/document/8934243)
 
 ###
 <br>
